@@ -1,0 +1,15 @@
+{
+    "name": "OneyBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "9d1cd8e0-755a-11e8-b8eb-61d8c67125bf",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
