@@ -9,7 +9,7 @@
   "author": "Roberto de Souza Unipartner (Rumos)",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.15.0",
+    "botbuilder": "^4.19.3",
     "restify": "^7.2.1"
   }
 }
